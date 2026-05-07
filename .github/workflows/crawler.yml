@@ -1,0 +1,96 @@
+name: 视频爬虫 - 每6小时运行一次
+
+on:
+  schedule:
+    # 每6小时运行一次: 0,6,12,18点
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # 允许手动触发
+    inputs:
+      videos_per_source:
+        description: '每个源下载几个视频'
+        required: false
+        default: '2'
+      concurrency:
+        description: '并发数'
+        required: false
+        default: '2'
+      max_videos:
+        description: '最多下载视频数'
+        required: false
+        default: '50'
+
+jobs:
+  crawl-videos:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
+    
+    - name: 设置 Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: 安装依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: 创建视频目录
+      run: mkdir -p videos
+    
+    - name: 运行爬虫
+      env:
+        VIDEOS_PER_SOURCE: ${{ github.event.inputs.videos_per_source || '2' }}
+        CONCURRENCY: ${{ github.event.inputs.concurrency || '2' }}
+        MAX_VIDEOS: ${{ github.event.inputs.max_videos || '50' }}
+      run: |
+        python video_crawler.py
+    
+    - name: 列出下载的视频
+      run: |
+        echo "## 📊 下载统计" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "视频总数: $(find videos -name "*.mp4" | wc -l)" >> $GITHUB_STEP_SUMMARY
+        echo "目录大小: $(du -sh videos | cut -f1)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 分类统计" >> $GITHUB_STEP_SUMMARY
+        for dir in videos/*/; do
+          count=$(find "$dir" -name "*.mp4" | wc -l)
+          if [ $count -gt 0 ]; then
+            echo "- $(basename "$dir"): $count 个视频" >> $GITHUB_STEP_SUMMARY
+          fi
+        done
+    
+    - name: 上传视频到 Release (可选)
+      if: always() && github.event_name == 'schedule'
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "videos/*/*.mp4"
+        tag: "videos-$(date +'%Y%m%d-%H%M%S')"
+        name: "视频备份 - $(date +'%Y-%m-%d %H:%M:%S')"
+        bodyFile: "crawler.log"
+        allowUpdates: true
+        artifactErrorsFailBuild: false
+      continue-on-error: true
+    
+    - name: 上传日志
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: crawler-logs-${{ github.run_id }}
+        path: |
+          crawler.log
+          report_*.txt
+          last_run.txt
+        retention-days: 7
+    
+    - name: 清理旧视频 (保留最近2次)
+      if: always() && github.event_name == 'schedule'
+      run: |
+        # 保留最近2次运行的视频
+        cd videos
+        ls -t | tail -n +3 | xargs -r rm -rf
