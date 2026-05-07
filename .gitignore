@@ -1,0 +1,8 @@
+videos/
+*.mp4
+*.log
+report_*.txt
+last_run.txt
+__pycache__/
+*.pyc
+.DS_Store
