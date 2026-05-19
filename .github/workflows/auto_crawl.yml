@@ -8,14 +8,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: 安装Chrome依赖
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/local/bin/chromedriver
+
       - name: 配置Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
-      - name: 安装依赖
-        run: pip install requests
+
+      - name: 安装依赖库
+        run: pip install selenium
+
       - name: 执行爬虫
         run: python spider_cf.py
+
       - name: 提交推送
         run: |
           git config user.name "AutoBot"
