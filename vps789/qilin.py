@@ -4,7 +4,6 @@ import os
 
 def run():
     with sync_playwright() as p:
-        # 无头模式 + 禁用图片/视频加载，大幅提速防超时
         browser = p.chromium.launch(
             headless=True,
             args=[
@@ -12,57 +11,61 @@ def run():
                 "--disable-dev-shm-usage",
                 "--disable-gpu",
                 "--disable-images",
-                "--disable-media"
+                "--disable-web-security",
+                "--disable-features=IsolateOrigins",
             ]
         )
-        
+
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             viewport={"width": 1920, "height": 1080}
         )
-        
+
         page = context.new_page()
 
         try:
             print("正在打开：api.uouin.com/cloudflare.html")
-            
-            # 访问页面（更长超时 + 更强等待）
+
             page.goto(
                 "https://api.uouin.com/cloudflare.html",
                 wait_until="load",
                 timeout=60000
             )
-            time.sleep(5)  # 强制等待页面完全渲染
 
-            print("开始提取优选IP数据...")
+            # 等待页面动态加载IP数据（关键修复）
+            print("等待IP数据加载...")
+            time.sleep(8)
+
             ip_data = []
-            
-            # 通用匹配，不依赖固定ID，彻底解决找不到元素问题
-            rows = page.query_selector_all("table tbody tr")
-            
+            rows = page.query_selector_all("div#ipTable table tbody tr")
+
+            if not rows:
+                rows = page.query_selector_all("div[contains(@class,'container')] table tbody tr")
+
+            print(f"找到 {len(rows)} 行数据")
+
             for row in rows:
                 tds = row.query_selector_all("td")
                 if len(tds) < 4:
                     continue
 
                 ip = tds[0].inner_text().strip()
-                ping_text = tds[3].inner_text().strip()
+                ping_str = tds[3].inner_text().strip()
 
-                # 过滤无效IP
                 if not ip or "." not in ip:
                     continue
 
-                # 提取延迟数值
+                # 提取延迟
                 try:
-                    ping = int(''.join(filter(str.isdigit, ping_text)))
+                    ping = int(''.join(filter(str.isdigit, ping_str)))
                 except:
-                    continue
+                    ping = 9999
 
-                # 延迟 ≤ 300ms 才保留（可自行修改）
+                # 只保留优质IP（延迟 ≤ 300ms）
                 if ping <= 300:
                     ip_data.append((ip, ping))
 
-            # 去重 + 按延迟从小到大排序
+            # 去重 + 排序（延迟低 → 高）
             ip_dict = {}
             for ip, ping in ip_data:
                 if ip not in ip_dict:
@@ -70,17 +73,17 @@ def run():
 
             sorted_ips = sorted(ip_dict.keys(), key=lambda x: ip_dict[x])
 
-            # 保存文件
+            # 保存
             current_dir = os.path.dirname(os.path.abspath(__file__))
             save_path = os.path.join(current_dir, "qilin_ip.txt")
 
             with open(save_path, "w", encoding="utf-8") as f:
                 f.write("\n".join(sorted_ips))
 
-            print(f"✅ 抓取完成！去重+测速后优质IP数量：{len(sorted_ips)}")
+            print(f"✅ 抓取完成！有效优质IP：{len(sorted_ips)} 个")
 
         except Exception as e:
-            print(f"❌ 抓取失败：{str(e)}")
+            print(f"❌ 错误：{str(e)}")
             raise
         finally:
             browser.close()
