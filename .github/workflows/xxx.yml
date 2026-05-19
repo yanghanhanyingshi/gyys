@@ -1,4 +1,4 @@
-name: qilin-ip
+name: 麒麟优选-ip
 
 on:
   workflow_dispatch:
