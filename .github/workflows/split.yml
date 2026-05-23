@@ -1,33 +1,36 @@
-name: 节点8
+name: 节点采集喔
+run-name: 每小时自动拆分节点
 
+# 触发规则：每小时执行 + 推送代码手动触发
 on:
   push:
     branches: [ main, master ]
   schedule:
-    - cron: '0 8 * * *'
+    # 每小时整点执行 UTC时间，国内时差不影响频率
+    - cron: '0 * * * *'
 
 jobs:
-  run-split:
+  split-task:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: 拉取仓库代码
         uses: actions/checkout@v4
 
-      - name: Set Python
+      - name: 配置Python环境
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: 安装依赖库
+        run: pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-      - name: Execute split script
+      - name: 运行拆分脚本
         run: python split_config.py
 
-      - name: Commit & Push changes
+      - name: 提交更新文件
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "actions@github.com"
+          git config user.name "Actions Bot"
+          git config user.email "bot@github.com"
           git add .
-          git commit -m "Auto update split proxy config" || echo "No changes to commit"
+          git commit -m "⏰ 每小时自动更新节点配置" || echo "无文件变更，跳过提交"
           git push
