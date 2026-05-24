@@ -1,0 +1,42 @@
+name: haogege
+
+on:
+  workflow_dispatch:
+  # 每小时整点自动运行
+  schedule:
+    - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  process-ips:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch and Format IPs
+        run: |
+          mkdir -p haogege
+          curl -s --connect-timeout 10 https://ip.haogege.xyz/ipTop10.html | tr ',' '\n' | sed '/^$/d' > haogege/ipv4-onlyip.txt
+          echo "数据已处理并保存至 haogege/ipv4-onlyip.txt"
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add haogege/ipv4-onlyip.txt
+          
+          if git diff --staged --quiet; then
+            echo "IP 数据未发生变化，跳过提交。"
+          else
+            BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
+            git commit -m "haogege $BJ_TIME"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
+
