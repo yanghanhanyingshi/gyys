@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2c586c6d-76ca-4e98-93dc-8753d4d20f4e@185.143.233.122:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#@Pirimod
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@config_free2 28a
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?encryption=none&type=tcp&headerType=none#@electvpn0
-vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://2cb9ba7b-71fe-4c9c-b197-14101185f846@185.143.232.201:80?path=/&security=none&encryption=none&host=down.speedtell.ir&type=ws#🇮🇷28650 | ⚡️Telegram = t.me/SOSkeyNET
-vless://2cc4844a-c21a-4130-ad50-32c7d36b66c3@snapp.ir:8080?encryption=none&host=plusgame.gameidlc.sbs&path=/&security=none&type=ws#3814783_iraneclips_100-30.00MB📊-4D⏳
-vless://2d461e79-7a79-4891-83c8-b34d5ad48251@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
-vless://2d8eadaa-7030-48fc-9eec-b6edbef32133@sub.pardisvps.ir:2086?type=ws&security=none&path=/&host=
 vless://2db3b422-3f2d-401f-9666-10df3e90e464@185.220.226.34:80?path=/news&security=none&encryption=none&host=www.skyroom.online&type=ws#@icv2ray
 vless://2ddaf3f2-63ac-4f80-aa44-3ab3957f6ac7@198.169.2.1:443?encryption=none&security=tls&sni=relay-oqalebfz.vercel.app&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=relay-oqalebfz.vercel.app&path=/api&mode=auto&extra={"xPaddingBytes":"100-1000"}#@InfoTech_VK4
 vless://2ddaf3f2-63ac-4f80-aa44-3ab3957f6ac7@198.169.2.65:443?encryption=none&security=tls&sni=relay-oqalebfz.vercel.app&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=relay-oqalebfz.vercel.app&path=/api&mode=auto&extra={"xPaddingBytes":"100-1000"}#@InfoTech_VK3
@@ -503,3 +495,11 @@ vless://897da4d2-543a-4cbc-bb38-1a4a599d6543@www.speedtest.net:8443?path=/eyJqdW
 vless://89e6e690-6fca-435d-b286-c65a9925a65b@fl1bot-ws.headerip.com:80?path=/&security=none&encryption=none&host=fl1.mv5.ir&type=ws#تلگرام  @irconfi روبیکا  @wizardxray
 vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://8a41fccd-f65d-4eae-9241-f7df4dfeeacc@elite.tornado-ping.com:26261?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-161
+vless://8a60fc9e-c867-480d-8044-e577310bfc93@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#🇮🇷28498 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8aabd657-cf3d-449f-818c-b9ccf5ea6585@pro.halotwo.website:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=pro.halotwo.website&type=ws#1875rc5g-1.00GB%F0%9F%93%8A-30D%E2%8F%B3
+vless://8aabd657-cf3d-449f-818c-b9ccf5ea6585@pro.halotwo.website:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=pro.halotwo.website&type=ws#1875rc5g-1.00GB%F0%9F%93%8A-30D%E2%8F%B3  ✔️کاملا متصل،
+vless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=pmeli.express-servers.ir#Telegram : @V2ynpv
+vless://8b14eb34-523d-4973-b59e-ce6885323983@193.151.151.19:56710?security=none&type=tcp#🇮🇷28512 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8b2b686a-060f-4d2e-921b-4688ddb2189e@104.21.53.61:2083?path=/eyJqdW5rIjoiRExVYk9wRWRpdXY2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&sni=V2nGfaST.NOvAYe6130.WOrKERS.Dev#2 🇩🇪 @V2ngFast
+vless://8b5cb806-29f9-41da-8192-96797027942c@snapp.ir:80?path=/&security=none&encryption=none&host=pan92e.nexoratechcenter.ir&type=ws#https://t.me/+IYuoiYAxZVJhZWU0جوین چنل بشید قطع نشید#Rz
+vless://8bd2febc-0cf3-413a-ae10-a2abe7ac0309@185.143.233.235:206?type=ws&host=tr-st2.ge9.ir&path=/path#🇮🇷28603 | ⚡️Telegram = t.me/SOSkeyNET
