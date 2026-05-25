@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fe02fc5f-8e85-4df9-a0c2-1313bc33227d@hv343var.novinpardazanpayam.net:32849?security=none&encryption=none&host=www.uptvs.com&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#🔵@chillguy_vpn
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-277
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#🇮🇷28956 | ⚡️Telegram = t.me/SOSkeyNET
-vless://fe202867-69b8-4f91-9112-3cdfd4915b89@chatgpt.com:443?path=/eyJqdW5rIjoiSWFuNkZJZGIxM2ZlTFA3SiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.diweme4468.workers.dev&fp=chrome&type=ws&sni=v2nGfaSt-v2NgFAsT-v2NgfAst-V2NgFAst.DIwemE4468.WORkErS.DEV#1 🇩🇪 @av2ngFast
-vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&encryption=none&host=fsn.bestlive.ir&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
 vless://feb48801-8e5e-4ce7-8fcd-7f2d0fc1abb1@185.143.233.235:8880?type=ws&encryption=none&path=/ws?ed=2560&host=New1.legendperm.ir&security=none#🇮🇷28916 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
@@ -503,3 +495,11 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80/?type=ws&encrypti
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.147.223:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40configshub2%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.21.227.134:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.80.1:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@v1.dabache.top:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
