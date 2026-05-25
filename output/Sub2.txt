@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://25aa633e-0d6c-444c-a71d-cce25890f898@Ikco.ir:80?encryption=none&host=IQ.movizdl.ir&path=/cdn&security=none&type=ws#@icv2ray
-vless://25efc727-e853-49ba-9609-3c20009d0e7a@127.0.0.1:40443?path=/ @ProxyVPN11&security=none&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&type=ws#@ProxyVPN11
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@v2rayngzendegimamad🕊️
 vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&type=grpc&sni=yahoo.com#canfingV2rayNG-78
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
@@ -503,3 +501,5 @@ vless://8b2b686a-060f-4d2e-921b-4688ddb2189e@104.21.53.61:2083?path=/eyJqdW5rIjo
 vless://8b5cb806-29f9-41da-8192-96797027942c@snapp.ir:80?path=/&security=none&encryption=none&host=pan92e.nexoratechcenter.ir&type=ws#https://t.me/+IYuoiYAxZVJhZWU0جوین چنل بشید قطع نشید#Rz
 vless://8bd2febc-0cf3-413a-ae10-a2abe7ac0309@185.143.233.235:206?type=ws&host=tr-st2.ge9.ir&path=/path#🇮🇷28603 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8bd2febc-0cf3-413a-ae10-a2abe7ac0309@185.143.234.235:206?type=ws&host=tr-st2.ge9.ir&path=/path#🇮🇷28608 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8bd2febc-0cf3-413a-ae10-a2abe7ac0309@blubank.sb24.ir:206?encryption=none&type=ws&path=/path&host=tr-st2.ge9.ir#🇮🇷28580 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8bd2febc-0cf3-413a-ae10-a2abe7ac0309@blubank.sb24.ir:2086?encryption=none&type=ws&path=/path&host=tr-st2.ge9.ir#🇮🇷28564 | ⚡️Telegram = t.me/SOSkeyNET
