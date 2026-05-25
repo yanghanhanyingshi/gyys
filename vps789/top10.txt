@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-25 10:37 | 灵鹿优选
-openai.com:443#openai.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-25 15:05 | 灵鹿优选
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
-cdn.7zz.cn:443#cdn.7zz.cn
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-markmonitor.com:443#markmonitor.com
-www.fastsoso.cn:443#www.fastsoso.cn
+www.sloomb.com:443#www.sloomb.com
+cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
+cf.v8.longsays.com:443#cf.v8.longsays.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
+us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
