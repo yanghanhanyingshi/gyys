@@ -1,13 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-26 02:27 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-26 04:20 | 灵鹿优选
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cdn.204910.best:443#cdn.204910.best
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-baka.fun:443#baka.fun
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-dnew.cc:443#dnew.cc
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 openai.com:443#openai.com
 gh-proxy.com:443#gh-proxy.com
 www.cdzxdz.com:443#www.cdzxdz.com
@@ -17,6 +13,10 @@ test2.509666.xyz:443#test2.509666.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
 chrono24.com:443#chrono24.com
+cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
+yd.hhhhh.eu.org:443#yd.hhhhh.eu.org
+nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
+i.111666.best:443#i.111666.best
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
