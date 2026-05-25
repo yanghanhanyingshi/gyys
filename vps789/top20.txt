@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-25 22:37 | 灵鹿优选
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-store.ubi.com:443#store.ubi.com
-cf.3666888.xyz:443#cf.3666888.xyz
-cdn.262832.xyz:443#cdn.262832.xyz
-dnew.cc:443#dnew.cc
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
-cmcc.cc.cd:443#cmcc.cc.cd
-test2.509666.xyz:443#test2.509666.xyz
-laitemi.com:443#laitemi.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-26 01:00 | 灵鹿优选
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-saas.sin.fan:443#saas.sin.fan
-gh-proxy.com:443#gh-proxy.com
+dnew.cc:443#dnew.cc
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+gh-proxy.com:443#gh-proxy.com
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
+cmcc.cc.cd:443#cmcc.cc.cd
 www.sloomb.com:443#www.sloomb.com
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
+test2.509666.xyz:443#test2.509666.xyz
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.mfyx.cn:443#www.mfyx.cn
-cf.090227.xyz:443#cf.090227.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
+yd.hhhhh.eu.org:443#yd.hhhhh.eu.org
+cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+store.epicgames.com:443#store.epicgames.com
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
