@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-26 01:00 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-26 02:27 | 灵鹿优选
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cdn.204910.best:443#cdn.204910.best
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+baka.fun:443#baka.fun
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 dnew.cc:443#dnew.cc
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
-gh-proxy.com:443#gh-proxy.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
-cmcc.cc.cd:443#cmcc.cc.cd
-www.sloomb.com:443#www.sloomb.com
-test2.509666.xyz:443#test2.509666.xyz
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+openai.com:443#openai.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
