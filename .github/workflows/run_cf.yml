@@ -1,9 +1,7 @@
-name: CF IP
-# 每2小时自动执行 UTC时间，对应国内时间同步
+name: CF IP Optimizer Auto Run
 on:
   schedule:
     - cron: '0 */2 * * *'
-  # 支持手动点击触发运行
   workflow_dispatch:
 
 jobs:
@@ -26,11 +24,11 @@ jobs:
       - name: 执行优选IP脚本
         run: python cf_optimizer.py
 
-      # 可选：自动提交更新后的IP文件、日志回仓库
       - name: 提交运行结果文件
         run: |
           git config --global user.name "Github Actions"
           git config --global user.email "actions@github.com"
-          git add *.txt *.log
-          git commit -m "自动定时更新IP列表 - 每2小时任务" || echo "无文件更新"
+          git add proxy_ip.txt premium_proxy.txt reserve_ips.txt entry_ip_*.txt cf_optimizer.log
+          git commit -m "自动定时更新IP列表 - 每2小时任务" || echo "无文件更新，跳过提交"
           git push
+
