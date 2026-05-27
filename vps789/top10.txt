@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-27 07:02 | 灵鹿优选
-cdns.doon.eu.org:443#cdns.doon.eu.org
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-27 10:37 | 灵鹿优选
+cu.877774.xyz:443#cu.877774.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-baka.fun:443#baka.fun
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-yidong.19931101.xyz:443#yidong.19931101.xyz
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+baka.fun:443#baka.fun
 cf.godns.cc:443#cf.godns.cc
-ys2046.cv:443#ys2046.cv
 www.epicgames.com:443#www.epicgames.com
+cf.92555.xyz:443#cf.92555.xyz
+store.ubi.com:443#store.ubi.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
