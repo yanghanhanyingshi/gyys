@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://23bd6242-1ee0-41a8-8d18-8745b1686308@tokyoservice.ir:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.nvidia.com&pbk=L8m3Rq1x-3TOefBFskO_r97WmzFpNod4qBMf7DepQUQ&sid=825a6cdd1a&spx=/xywoBQfpLVUQQFG#@meliproxyy
 vless://24323a9a-5962-47f0-ae60-7b12f4503dea@nl3.freekeysh110.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&security=reality&sid=b664d93e9d7a04f1&sni=nl3.freekeysh110.online&type=tcp#@vmesskhodam
 vless://248b76f7-c750-4fde-a258-652cdf153854@23.137.249.110:20671?type=ws&encryption=none&security=none&host=23.137.249.110&path=/ws#🇳🇱33794 | ⚡️Telegram = t.me/SOSkeyNET
 vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=/&security=tls&alpn=http/1.1,h2&encryption=none&host=pro.nimbaha.info&fp=chrome&type=ws&sni=PrO.nImBaHa.InFo#@vmesskhodam
@@ -502,4 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.58.115:443?security=tls&encr
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.63.25:443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🛸@V2ray_official
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.63.25:8443?security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🛸@V2ray_official
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#@SheriffNet
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?Telegram🇨🇳@WangCai2=#@SheriffNet
