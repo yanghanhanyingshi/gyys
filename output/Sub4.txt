@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
 vless://98c918a8-b647-43df-ad4f-3d33db2137b3@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@SayanStoree
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@KAFING_2
@@ -503,3 +502,4 @@ vless://de989f46-ce7c-4d94-9c58-5ccd80e8d7a1@104.17.150.76:2086?path=/&security=
 vless://de989f46-ce7c-4d94-9c58-5ccd80e8d7a1@104.17.150.76:2086?path=/&security=none&encryption=none&host=war2.unlimiteddev-service2881.ir&type=ws#@meliproxyy
 vless://de989f46-ce7c-4d94-9c58-5ccd80e8d7a1@104.17.150.76:2086?path=/&security=none&encryption=none&host=war2.unlimiteddev-service2881.ir&type=ws#@vpnbaz 🍁
 vless://dead75ac-00ab-507f-8f5c-0c03e844a5fb@185.143.233.198:80/?path=/p/fr/2/l/w/5a7079eef615?ed=2047&security=none&encryption=none&insecure=1&host=cdn1.ufduiudud.site&type=ws&allowInsecure=1#ترکیبیConfixio@
+vless://dfa2cc54-b04c-4f0a-abb2-af94982884d6@blubank.ir:80?path=/&security=none&encryption=none&host=meli2.masterdadeh.ir&type=ws#@hi_proxy_iran :👈کانال تلگرام

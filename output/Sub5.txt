@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dfa2cc54-b04c-4f0a-abb2-af94982884d6@blubank.ir:80?path=/&security=none&encryption=none&host=meli2.masterdadeh.ir&type=ws#@hi_proxy_iran :👈کانال تلگرام
 vless://dfa2cc54-b04c-4f0a-abb2-af94982884d6@blubank.ir:80?path=/&security=none&encryption=none&host=meli2.masterdadeh.ir&type=ws#@meliproxyy
 vless://dfa6f07e-84d4-4d2b-8ba1-48d47dccba60@104.194.135.175:31570?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&type=ws#@GozargahAzad|🇺🇸
 vless://dfa6f07e-84d4-4d2b-8ba1-48d47dccba60@104.194.135.175:31570?encryption=none&host=&path=/&security=none&type=ws#@Black_Star_Vpn-300GB
@@ -503,3 +502,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEB2MnJheTR3aW4gIzEiLCJh
 vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?security=reality&amp%3Bsni=www.tradingview.com&amp%3Bfp=chrome&amp%3Bpbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&amp%3Bsid=ba2e91d5d7be&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bencryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&amp%3Bsni=pqh23v5.hiddendom.shop&amp%3Balpn=h2&amp%3Btype=grpc&amp%3Bencryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 vless://ea9a8480-f594-436b-94a8-114e195b2645@a3.hamrahnode.ir:2053?security=tls&amp%3Btype=ws&amp%3Bpath=/&amp%3Bsni=72f740baf742cfc8.uploadhub.org&amp%3Bfp=chrome&amp%3BallowInsecure=1#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@v843042.hosted-by-vdsina.com:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=wlYNxgezkkjoIEXATEBsOo7rZu5qkQaCOqDrysvuGR4&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=v843042.hosted-by-vdsina.com&amp%3Bsid=46e746366ed5c1b9#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
