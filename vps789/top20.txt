@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-30 00:37 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-30 03:28 | 灵鹿优选
+store.ubi.com:443#store.ubi.com
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 gh-proxy.com:443#gh-proxy.com
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-cdns.doon.eu.org:443#cdns.doon.eu.org
-cdn.091224.xyz:443#cdn.091224.xyz
-cu.877774.xyz:443#cu.877774.xyz
-www.nexusmods.com:443#www.nexusmods.com
-cdn.2020111.xyz:443#cdn.2020111.xyz
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
-zeas.top:443#zeas.top
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-dongbanghong.com:443#dongbanghong.com
-hzytjy.cn:443#hzytjy.cn
-cdn.2x.nz:443#cdn.2x.nz
-cdn.31514926.xyz:443#cdn.31514926.xyz
-imooo.de:443#imooo.de
 www.giannidelprete.it:443#www.giannidelprete.it
-cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+cdns.doon.eu.org:443#cdns.doon.eu.org
+cf.v8.longsays.com:443#cf.v8.longsays.com
+www.leics.police.uk:443#www.leics.police.uk
+www.nexusmods.com:443#www.nexusmods.com
+cdn.091224.xyz:443#cdn.091224.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+zeas.top:443#zeas.top
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+www.5199dy.com:443#www.5199dy.com
+www.swowd.com:443#www.swowd.com
+hzytjy.cn:443#hzytjy.cn
+dongbanghong.com:443#dongbanghong.com
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cdn.31514926.xyz:443#cdn.31514926.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
+cdn.2x.nz:443#cdn.2x.nz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
