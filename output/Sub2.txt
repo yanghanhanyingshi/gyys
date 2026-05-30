@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&alpn=http/1.1&fp=chrome&allowInsecure=0&flow=xtls-rprx-vision#@vasl_b
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#⚡@V2ray_official
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@Filtershekan_channel |6
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@FreeConffning ✈️
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@NETMelliAnti
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@icv2ray
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=/?BIA_ICV2RAY@ICV2RAY_ICV2RAY_ICV2RAY_ICV2RAY_ICV2RAY&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@icv2ray
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@icv2ray
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&host=/&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#@NETMelliAnti
 vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@65.109.216.90:45029?encryption=none&type=tcp&headerType=none#@v2rayNGcloud
 vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&security=none&type=tcp#🌝96@oneclickvpnkeys
 vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=&encryption=none&headerType=none&type=tcp#@icv2ray
@@ -503,3 +494,12 @@ vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?encryption=
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?encryption=none&type=xhttp&security=tls&path=/lizzard&host=lizzard.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&fp=chrome&allowInsecure=0#🔵@chillguy_vpn
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@outline_ir
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🔵@chillguy_vpn
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?encryption=none&type=ws&path=/&host=lizardf1.fastshop11.ir#[67811] - Telegram : @V2All
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?encryption=none&type=ws&path=/&host=lizardf1.fastshop11.ir#🇮🇷39113 | ⚡️Telegram = t.me/SOSkeyNET
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2096?encryption=none&type=ws&security=tls&path=/&host=lizards1.fastshop11.ir&sni=lizards1.fastshop11.ir&allowInsecure=0#[67810] - Telegram : @V2All
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2096?encryption=none&type=ws&security=tls&path=/&host=lizards1.fastshop11.ir&sni=lizards1.fastshop11.ir&allowInsecure=0#🇮🇷39114 | ⚡️Telegram = t.me/SOSkeyNET
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=/?ed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#@icv2ray
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=/?ed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#TEL;Father_vpn/irancell
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?path=/?ed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mzaxmc.lizardshop.org#T.me/Erfwp🇺🇸
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=mzaxmc0.lizard2shop.com&path=/&security=tls&sni=mzaxmc0.lizard2shop.com&type=ws#🦄92@oneclickvpnkeys
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
