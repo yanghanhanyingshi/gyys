@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-30 19:14 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-30 21:06 | 灵鹿优选
 cdn.262832.xyz:443#cdn.262832.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cloudflare.cnae.top:443#cloudflare.cnae.top
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-www.mfyx.cn:443#www.mfyx.cn
-www.vastnovel.com:443#www.vastnovel.com
 isp.254301.xyz:443#isp.254301.xyz
 cdn.2158.cc:443#cdn.2158.cc
+www.vastnovel.com:443#www.vastnovel.com
+www.mfyx.cn:443#www.mfyx.cn
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
+www.cdzxdz.com:443#www.cdzxdz.com
+cu.877774.xyz:443#cu.877774.xyz
 gh-proxy.com:443#gh-proxy.com
 www.giannidelprete.it:443#www.giannidelprete.it
 cdns.doon.eu.org:443#cdns.doon.eu.org
-cdn.204910.best:443#cdn.204910.best
 bbs.alipansou.com:443#bbs.alipansou.com
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
+openai.com:443#openai.com
+cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
-www.sloomb.com:443#www.sloomb.com
-yyurl.cc:443#yyurl.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
