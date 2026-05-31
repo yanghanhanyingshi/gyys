@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
+vless://74d113e5-8493-4636-8407-4fe6e4eb08d0@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#@SayanStoree
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&security=reality&sid=92d0c4089b6c1da3&sni=io.ozone.ru&type=tcp#@filembad
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&security=reality&sid=92d0c4089b6c1da3&sni=io.ozone.ru&type=tcp#🇩🇪41320 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&security=reality&sid=92d0c4089b6c1da3&sni=io.ozone.ru&type=tcp#🔊50@oneclickvpnkeys
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&security=reality&sid=92d0c4089b6c1da3&sni=io.ozone.ru&type=tcp#🔵@chillguy_vpn
@@ -500,6 +503,3 @@ vless://ae065531-7a26-4c3f-82cf-7c2ee9effcde@45.130.125.76:2087?mode=auto&path=/
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.121.71:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#Tel;Father_vpn⁵
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.121.71:443?path=/question/avatar/hot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#🇩🇪All¹⁹ |@VpnFardad
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.145.145:443?path=/file&security=tls&encryption=none&insecure=0&host=pagescm.freen23.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen23.cc.cd#TEL;FATHER_VPN¹⁷
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?allowInsecure=1&encryption=none&host=pagescm.freen18.cc.cd&path=/blog/news&security=tls&sni=pagescm.freen18.cc.cd&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?path=/blog/news&security=tls&encryption=none&insecure=0&host=pagescm.freen18.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen18.cc.cd#@vpnbaz 🫧
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.120:443?path=/code/dl&security=tls&encryption=none&insecure=0&host=pagescm.freen29.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen29.cc.cd#TEL;Father_vpn²
