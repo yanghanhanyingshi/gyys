@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6992f972-39ab-41e3-9d2e-39efc00ced3d@104.17.121.152:2096?security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=alalamtv.net.jamejamonline.ir.iribnews.ir.alef.ir.eghtesadonline.com.rajanews.com.khabaronline.ir&sni=aRTfuL-eXCHAnGed81Ihi4YWX.carbONblAckBMW.ir#⚡@V2ray_official
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&encryption=none&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.ru&sid=8237eb#🔵@chillguy_vpn
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@77.110.122.22:8443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=97783a46&pbk=Nlsu3xrYPB9ePk3pkcCPJbsuhsLrmAOeXMKaNAZyOww#🇺🇸42533 | ⚡️Telegram = t.me/SOSkeyNET
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@77.110.122.22:8443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=97783a46&pbk=Nlsu3xrYPB9ePk3pkcCPJbsuhsLrmAOeXMKaNAZyOww#🔵@chillguy_vpn
@@ -502,4 +503,3 @@ vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
 vless://a2729b29-3e45-4331-8951-b294f2780a48@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#@SayanStoree
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=/&security=none&type=ws#kurdconfig
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=/&security=none&type=ws#🐤6@oneclickvpnkeys
