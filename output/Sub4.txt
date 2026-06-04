@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#@KAFING_2
-vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?security=reality&encryption=none&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=d9029b790f10b2e2#🇬🇧GB-🚀@V2Ray_Hub1200
 vless://5da791f7-5b75-4c96-98b5-01f8e2ad3ca4@www.speedtest.net:80?path=/&security=none&encryption=none&host=ns2.hostingdata.ir&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://5dab8afa-bdc8-4ae6-8bfe-8b82aaba0cc7@51.195.99.254:80/?type=tcp&encryption=none&flow=#@VPsave
 vless://5dbfed06-dd62-48c0-8e39-b4835defcdb0@216.24.57.1:443?path=/sg-amz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
@@ -503,3 +501,5 @@ vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&p
 vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?security=none&encryption=none&headerType=none&type=tcp#TEL;FATHER_VPN¹²
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
 vless://94a981c4-eb75-443c-b855-6e93d8143719@client.ronixgames.ir:2096?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=nl2.ronixgames.ir&mode=auto&path=/&security=tls&sni=cl2.ronixgames.ir&type=xhttp&x_padding_bytes=100-1000#@filembad
+vless://94a981c4-eb75-443c-b855-6e93d8143719@client.ronixgames.ir:2096?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=nl2.ronixgames.ir&mode=auto&path=/&security=tls&sni=cl2.ronixgames.ir&type=xhttp&x_padding_bytes=100-1000#🇨🇦47427 | ⚡️Telegram = t.me/SOSkeyNET
+vless://9591f34a-90b1-41a1-b53d-be0bef7e7cc3@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=monsterion10.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#🟢 🇫🇷 فرانسه

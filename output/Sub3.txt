@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://31ffe268-38ea-47b9-96d2-737bd6e656f0@185.143.233.235:80?encryption=none&host=arvin.irzeus.ir&path=/&security=none&type=ws#🔵@chillguy_vpn
-vless://31ffe268-38ea-47b9-96d2-737bd6e656f0@185.143.233.235:8880?encryption=none&host=arvin.irzeus.ir&path=/&security=none&type=ws#🇮🇷47529 | ⚡️Telegram = t.me/SOSkeyNET
 vless://320a343b-2074-47f0-a4f6-c7a04eedcade@45.84.196.25:55352?encryption=none&security=none&type=tcp&headerType=http#🇩🇪47555 | ⚡️Telegram = t.me/SOSkeyNET
 vless://32184066-3f9d-4a94-b0df-a0013ccfb7bb@VPNCUSTOMIZE.ddns.net:2096?serviceName=#@v2rayconfigamir 6284
 vless://327bf8a4-52ec-4fc1-afab-fc37ecec8be9@150.241.94.160:33199?security=reality&encryption=none&pbk=0paB9-U-QzEBoSQiOP161BPvc2PhWrfQ_5nbfk2AezM&headerType=none&fp=chrome&type=tcp&sni=web.max.ru&sid=a9766c#🔵@chillguy_vpn
@@ -503,3 +501,5 @@ vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&secu
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[Kia_Net] 🇫🇷 FR-507
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#[Kia_Net] 🇫🇷 FR-507#kurdconfig
 vless://5d4e7f4f-dd35-4a4e-9121-813377ec79f9@193.228.168.106:11011?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#@KAFING_2
+vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?security=reality&encryption=none&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=d9029b790f10b2e2#🇬🇧GB-🚀@V2Ray_Hub1200

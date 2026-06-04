@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@icv2ray
-trojan://humanity@141.193.213.21:443?path=/assignment?brand=@Arvand_soul&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com&brand=@Arvand_soul#@Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 trojan://humanity@141.193.213.30:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#@VPN_PASARGAD
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@v2rayngzendegimamad🕊️
@@ -503,3 +501,5 @@ vless://31b07cd0-bb51-4036-9910-4c73aff1848d@185.143.233.122:443?path=/av&securi
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#🌾 @ProxyVPN11
 vless://31ffe268-38ea-47b9-96d2-737bd6e656f0@185.143.233.235:2052?encryption=none&host=arvin.irzeus.ir&path=/&security=none&type=ws#🇮🇷47530 | ⚡️Telegram = t.me/SOSkeyNET
 vless://31ffe268-38ea-47b9-96d2-737bd6e656f0@185.143.233.235:80?encryption=none&host=arvin.irzeus.ir&path=/&security=none&type=ws#🇮🇷47531 | ⚡️Telegram = t.me/SOSkeyNET
+vless://31ffe268-38ea-47b9-96d2-737bd6e656f0@185.143.233.235:80?encryption=none&host=arvin.irzeus.ir&path=/&security=none&type=ws#🔵@chillguy_vpn
+vless://31ffe268-38ea-47b9-96d2-737bd6e656f0@185.143.233.235:8880?encryption=none&host=arvin.irzeus.ir&path=/&security=none&type=ws#🇮🇷47529 | ⚡️Telegram = t.me/SOSkeyNET
