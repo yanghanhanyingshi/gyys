@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://70d47995-3b31-4da3-a76b-804df83c71ba@185.143.234.200:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.namavax.ir&path=/#V2rayng_Fast
-vless://710aaa68-2cef-4a18-a73e-9823ea837b73@27.50.48.49:8443?security=tls&encryption=none&host=notathing.dadcloud.ir&fp=chrome&type=ws&sni=notathing.dadcloud.ir#@outline_ir
-vless://7113486d-0d19-461f-a9e6-31437a8fe019@151.101.108.223:443?encryption=none&type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/?ed=1555&host=nleiyajji.global.ssl.fastly.neT.&sni=speedtest.net&allowInsecure=1#@v2rayNGcloud
-vless://71eba8ce-2ea8-48c4-9371-76c73a3d2632@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
 vless://71ff6388-fbd5-462b-afbd-90630b13704f@62.60.214.161:35445?type=tcp&headerType=none#@v2rayconfigamir 5245
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&host=picassooo.info&fp=chrome&type=ws&sni=picassooo.info#@HiByeVPNN ❤️‍🔥🧧🔥 48
 vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 4913
@@ -503,3 +499,7 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?securi
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=tcp#🔵@chillguy_vpn
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?encryption=none&type=tcp&security=tls&headerType=none&allowInsecure=0#@MoOon_proxy 🛸
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp#@meliproxyy
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp#filembad-229
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp#@meliproxyy
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#@V2rayNG_Cafe
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#@hi_proxy_iran :👈کانال تلگرام
