@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-06 11:55 | 灵鹿优选
-openai.com:443#openai.com
-eii.at:443#eii.at
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-06 14:48 | 灵鹿优选
 cdns.doon.eu.org:443#cdns.doon.eu.org
-gh-proxy.com:443#gh-proxy.com
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
+www.swowd.com:443#www.swowd.com
 baka.fun:443#baka.fun
-www.cdzxdz.com:443#www.cdzxdz.com
+dongbanghong.com:443#dongbanghong.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
-www.shopify.com:443#www.shopify.com
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cf.3666888.xyz:443#cf.3666888.xyz
+gh-proxy.com:443#gh-proxy.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
