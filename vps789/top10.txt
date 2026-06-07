@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-07 15:00 | 灵鹿优选
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-07 18:07 | 灵鹿优选
 cu.877774.xyz:443#cu.877774.xyz
 nexusmods.com:443#nexusmods.com
-www.mc.js.cool:443#www.mc.js.cool
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-zeas.top:443#zeas.top
-cf.3666888.xyz:443#cf.3666888.xyz
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+9.cf.3666888.xyz:443#9.cf.3666888.xyz
+www.nexusmods.com:443#www.nexusmods.com
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+store.ubi.com:443#store.ubi.com
 dnew.cc:443#dnew.cc
 test.509666.xyz:443#test.509666.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
