@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 18:19 | 灵鹿优选
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-www.akasantech.com:443#www.akasantech.com
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-baka.fun:443#baka.fun
-cmcc.cc.cd:443#cmcc.cc.cd
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 22:43 | 灵鹿优选
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+baka.fun:443#baka.fun
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+www.shopify.com:443#www.shopify.com
+cnllm.com:443#cnllm.com
+cu.877774.xyz:443#cu.877774.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
-markmonitor.com:443#markmonitor.com
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
-101yaoye.com:443#101yaoye.com
+www.cdzxdz.com:443#www.cdzxdz.com
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
+cmcc.cc.cd:443#cmcc.cc.cd
+cf.92555.xyz:443#cf.92555.xyz
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-yidong.19931101.xyz:443#yidong.19931101.xyz
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-saas.sin.fan:443#saas.sin.fan
-store.ubi.com:443#store.ubi.com
+cf.godns.cc:443#cf.godns.cc
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
