@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a8d70173-4f85-4881-9396-3202cdad21cd@access.come-to-rose.store:6060?path=public/data/reqeust.js?ed=8080&security=&encryption=none&host=zula.ir&type=ws#🇮🇷57624 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a8d70173-4f85-4881-9396-3202cdad21cd@access.come-to-rose.store:6060?path=public/data/reqeust.js?ed=8080&security=&encryption=none&host=zula.ir&type=ws#🔵@chillguy_vpn
+vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.115:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇸🇪 In_memory_of_the_Fallen_Heroes_January_8th_and_9th
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.143:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:52ms
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.143:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:55ms
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.143:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇸🇪 In_memory_of_the_Fallen_Heroes_January_8th_and_9th
 vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.165:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:44ms
 vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.165:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:49ms
 vless://a9d3f77943aeee7d4dc3fa073c1797d8@188.114.96.165:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#🇸🇪 In_memory_of_the_Fallen_Heroes_January_8th_and_9th
@@ -496,10 +503,3 @@ vless://ddf41329-42d8-4266-9bc2-6fef34941a0b@188.114.97.6:443?security=tls&allow
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#@v2rayNplus |🎏
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#@vmesskhodam
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#🔥 @free_conf_iran 🔥 3
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#🛸@V2ray_official
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/@v2rayNplus@v2rayNplus@v2rayNplus@v2rayNplus@v2rayNplus@v2rayNplus&type=xhttp&sni=www.google.com&sid=44#https://t.me/v2rayNplus |🇹🇷
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&type=xhttp&sni=www.google.com&sid=44#@hex_proxy ¹
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&type=xhttp&sni=www.google.com&sid=44#@meliproxyy
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&type=xhttp&sni=www.google.com&sid=44#kurdconfig
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&type=xhttp&sni=www.google.com&sid=44#💞All-@V2rayAlpha--1
-vless://de747feb-8bac-4657-964d-4d2b26e43c03@172.233.54.207:443?security=&encryption=none&headerType=&type=tcp#@config_NG

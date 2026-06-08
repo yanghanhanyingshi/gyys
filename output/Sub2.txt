@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@37.27.186.225:8443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=e7#🛸@V2ray_official
+trojan://SoftNetConnect@62.60.155.100:8443?type=xhttp&security=reality&path=/&mode=auto&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=6kAVDPDdc6M_EzUqt5SJAXvqpPTEyRW1VWvrINWXbg4&sid=5ea85f1b0d89&spx=/Z4h6xD9cJl4kiho#@VPsave
+trojan://SoftNetConnect@62.60.157.134:8443?type=xhttp&security=reality&path=/&mode=auto&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=cOJrbrYqZbxydvTDlbgdswVJhzrOd2fQsBYNcqeQ7EM&sid=7c992239&spx=/40lym47Ez6CYIbp#@VPsave
+trojan://SoftNetConnect@78.47.94.248:2053?mode=gun&security=reality&authority=78.47.94.248&pbk=hWYW0-NW7GVHK_CJmyTfm_UNrjaoQJMpM01FK-NP0nU&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=5cd37de3#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://SoftNetConnect@78.47.94.248:8443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=aV-MSVl46JE-ILVy27NmrtOsqWFb1UNMQf593dWBkj0&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=3ef0af5fb7b29e3a#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://SoftNetConnect@91.107.162.63:8443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=P9eMYLozM4-cDufbc3xzA6AEKRc1p7pdidJ_iqp72ls&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=4da1e3bdfe7f#@V2raybaaz🏴󠁧󠁢󠁥󠁮󠁧󠁿
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://Telegram-Config0plus-983ced63-fcf0-4d15-b81b-432e32e9b932@141.193.213.11:443?host=api24-normal.tiktokv.com.r3xxe.eu.cc&path=/us-gllc&sni=api24-normal.tiktokv.com.r3xxe.eu.cc&type=ws#🔔18@oneclickvpnkeys
 trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
 trojan://Tl5Qu5x5Tn@188.114.97.6:8443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&host=sv-free.n2buy.ir&fp=chrome&type=xhttp&sni=sv-free.n2buy.ir#🇨🇦 @internet_azad_2026
@@ -496,10 +503,3 @@ vless://16f2a9ed-9913-4dba-97ad-33e5748fa1d8@84.75.220.46:443?type=ws&encryption
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.33.6:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=&fp=chrome&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | [BL]
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@31.76.126.141:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44#🇬🇧57542 | ⚡️Telegram = t.me/SOSkeyNET
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@31.76.126.141:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44#🇺🇸US-🚀@VPNine1
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@31.76.53.213:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=53197c66aef53c44#@icv2ray
