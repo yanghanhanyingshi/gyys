@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 06:56 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-08 08:01 | 灵鹿优选
 store.ubi.com:443#store.ubi.com
-www.jimdo.com:443#www.jimdo.com
-www.akasantech.com:443#www.akasantech.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-nexusmods.com:443#nexusmods.com
-test.509666.xyz:443#test.509666.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-www.nexusmods.com:443#www.nexusmods.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 01-cctv.com:443#01-cctv.com
-www.5199dy.com:443#www.5199dy.com
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+2.cf.3666888.xyz:443#2.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 saas.sin.fan:443#saas.sin.fan
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+isp.254301.xyz:443#isp.254301.xyz
+api.gzcrtw.com:443#api.gzcrtw.com
+www.ntu.edu.sg:443#www.ntu.edu.sg
+www.cdzxdz.com:443#www.cdzxdz.com
+www.swowd.com:443#www.swowd.com
+cmcc.877774.xyz:443#cmcc.877774.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
