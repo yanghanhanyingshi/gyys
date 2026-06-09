@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@FaStly1.YaShArMoBiLe.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=mastercdn2.yasharteam.com#🇳🇱 متود (1)
+vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@Ip.yaShaRteAm.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=moslem1.yasharteam.com#🇳🇱 متود (2)
+vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:3838?security=none&type=tcp&headerType=http&path=/&host=cdn.jsdelivr.net#🇮🇷 سرویس ویژه نت ملی
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:690?security=none&encryption=none&headerType=none&type=tcp#@Gap_ip
 vless://a393c4e7-5406-42e6-86d3-6489840fa4ea@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
 vless://a4296280-8571-44f3-a4ab-34b2fd2fc06b@192.166.82.81:19878?security=none&encryption=none&headerType=none&type=tcp#@Ap_Ir6
@@ -500,6 +503,3 @@ vless://d6d8bbd3-2462-4d13-b8fa-c3cafaa7dec5@SPEEDtest.Net:80?mode=auto&path=/&s
 vless://d721b83f-1434-49d4-8128-35ab1647e1f6@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=cinema.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#@VPsave
 vless://d721b83f-1434-49d4-8128-35ab1647e1f6@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#@v2raybaaz-2
 vless://d721b83f-1434-49d4-8128-35ab1647e1f6@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&host=cinema.subgift.xyz&fp=chrome&type=xhttp#filembad-339
-vless://d721b83f-1434-49d4-8128-35ab1647e1f6@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#@meliproxyy
-vless://d721b83f-1434-49d4-8128-35ab1647e1f6@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#kurdconfig
-vless://d721b83f-1434-49d4-8128-35ab1647e1f6@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#💞All-@V2rayAlpha--11

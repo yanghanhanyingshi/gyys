@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@icv2ray
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@Filtershekan_channel |17
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@Filtershekan_channel |4
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@Filtershekan_channel |6
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@V2ray_Alpha🧉 3
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@Vpn_jet7
@@ -500,6 +503,3 @@ vless://a2ff93ce-309e-45ba-a442-1858d08f04e0@185.250.41.111:443?encryption=none&
 vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?encryption=none&host=m.udemy.com.r3xxe.eu.cc&path=/nl-tw&security=tls&sni=m.udemy.com.r3xxe.eu.cc&type=ws#🔔20@oneclickvpnkeys
 vless://a33841fd-e693-42e3-b7d4-9c6e802093fb@www.speedtest.net:2095?path=/eyJqdW5rIjoiNmlaTUYxTnB5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&security=none&encryption=none&host=frosty-field-7475.hamedpop8.workers.dev&type=ws#✅  @vistav2ray  👈👈کانال ما ✅
 vless://a341c649-ff95-49d5-8d2b-6d5cebf09dfb@five.nothingnewtodo.online:36096?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
-vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@FaStly1.YaShArMoBiLe.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=mastercdn2.yasharteam.com#🇳🇱 متود (1)
-vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@Ip.yaShaRteAm.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=moslem1.yasharteam.com#🇳🇱 متود (2)
-vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:3838?security=none&type=tcp&headerType=http&path=/&host=cdn.jsdelivr.net#🇮🇷 سرویس ویژه نت ملی

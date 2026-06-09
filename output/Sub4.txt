@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://421e0bf7-fecd-4983-911e-9b41159389fc@snappfood.ir:443?path=/bspath&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vaslbashi.tooorkshop.ir#اختصا۱ی کانال |Hunnter_VPN
+vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
@@ -500,6 +503,3 @@ vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
 vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://6fc36cfc-561f-4544-9a0e-7c732c478501@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://70298879-632b-459d-a664-bda9f5e769e2@104.16.75.210:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mi-ads.ariyuz.org#@appsooner کانال تلگرام 🕊️
-vless://70a719c5-663e-4186-a32d-29a3f6361a72@blit111.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=&encryption=none&host=play.google.com&type=ws#🛰️ Channel : @NitruStore 64
