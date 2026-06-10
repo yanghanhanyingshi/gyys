@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@167.233.105.87:2083?type=grpc&security=reality&authority=77.110.126.179&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=n8Fu8cwHAewTgsS-QHBl9KobDMR5W-dGwiE73p4vjxc&sid=1b8d4593&spx=/#@BIGAnthony [German
 trojan://SoftNetConnect@167.233.105.87:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sKoo23dE1a6b_G1-AimeDX_1mw4ByhGti6a9PxK1xWw&sid=7c&spx=/#@BIGAnthony [Germany
 trojan://SoftNetConnect@167.233.105.87:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#@MoOon_proxy [Germany
 trojan://SoftNetConnect@167.233.105.87:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#🇩🇪DE-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&secur
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#🛰️ Channel : @NitruStore 1
 vless://10484bee-8516-400a-9b1e-efb5144ad324@162.217.249.133:7443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=stackoverflow.com&type=tcp#🪭26@oneclickvpnkeys
 vless://10484bee-8516-400a-9b1e-efb5144ad324@185.245.40.71:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&host=/&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d82fb387#@confiig_hub
-vless://10484bee-8516-400a-9b1e-efb5144ad324@31.77.201.3:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#@hex_proxy ³
