@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=172.237.145.189#🇺🇸US-🚀@VPNine1
-trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.mesaly.click#🇦🇹 Join+Telegram:@Farah_VPN 🇦🇹
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
@@ -503,3 +500,6 @@ vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@185.91.52.65:443?encryption=none&ty
 vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@185.91.52.65:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=a9c4f17e3b62d8#🇷🇺RU-🚀@VPNine1
 vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=5d8e1a9c4f72b3#🇷🇺65288 | ⚡️Telegram = t.me/SOSkeyNET
 vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=c31f9a0e7d4b52#🇷🇺65287 | ⚡️Telegram = t.me/SOSkeyNET
+vless://055ddf8f-7ab5-40c7-a2af-bd7211631451@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=c31f9a0e7d4b52#🇷🇺RU-🚀@VPNine1
+vless://0568c7d8-be37-44fa-a740-9fabc3e50981@46.175.150.23:443?security=reality&encryption=none&pbk=Cd77a2MwzD46unl2zeLMK1Eq6UowXcl7lav_EophjG4&headerType=none&fp=chrome&spx=/&type=tcp&sni=dl.google.com&sid=fc9ebedf34#@V2ray_official
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#@KAFING_2

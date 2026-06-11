@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@appsooner کانال تلگرام 🕊️
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=/&security=none&type=ws#🥎77@oneclickvpnkeys
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#@meliproxyy
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@Kia_Net
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@VPsave
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@hi_proxy_iran :👈کانال تلگرام
@@ -503,3 +500,6 @@ vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?encryption=none&
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?encryption=none&security=none&type=grpc#🪬59@v2ray_configs_pools
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeSh DM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#https://t.me/FREE_VPN02
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@FarazV2ray
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@HiByeVPNN ❤️‍🔥🧧🔥 73
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.119:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🐸 @ProxyVPN11
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?security=reality&encryption=none&p bk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#https://t.me/FREE_VPN02
