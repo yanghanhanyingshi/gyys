@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@FaStly1.YaShArMoBiLe.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=mastercdn2.yasharteam.com#🇳🇱 متود (1)
+vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@Ip.yaShaRteAm.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=moslem1.yasharteam.com#🇳🇱 متود (2)
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:3838?security=none&type=tcp&headerType=http&path=/&host=cdn.jsdelivr.net#🇮🇷 سرویس ویژه نت ملی
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:690?security=none&encryption=none&headerType=none&type=tcp#@Gap_ip
 vless://a37ff029-d240-40b4-8af4-7ae0e34b2567@94.156.232.72:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=teamdocs.su&fp=chrome&allowInsecure=1&pbk=Bx_BGjf9VHtS97W9ueLS_pjNsyOhzBA-S42d9a7fKmY&sid=a84d&spx=/&flow=xtls-rprx-vision#@V2VODKA_A ᯤ 1
@@ -501,5 +503,3 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=no
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@VPsave
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@hex_proxy ³
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.parsvds.com:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@NETMelliAnti
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=/&security=none&type=ws#5🥎@oneclickvpnkeys
