@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-12 15:15 | 灵鹿优选
-baka.fun:443#baka.fun
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-cdn.2020111.xyz:443#cdn.2020111.xyz
-cf.553314.xyz:443#cf.553314.xyz
-www.cdzxdz.com:443#www.cdzxdz.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-12 19:37 | 灵鹿优选
 zeas.top:443#zeas.top
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+baka.fun:443#baka.fun
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+www.cdzxdz.com:443#www.cdzxdz.com
+cf.553314.xyz:443#cf.553314.xyz
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-eii.at:443#eii.at
+cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
-01-qq.com:443#01-qq.com
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
-www.nexusmods.com:443#www.nexusmods.com
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+01-cctv.com:443#01-cctv.com
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
+cdn.2158.cc:443#cdn.2158.cc
+eii.at:443#eii.at
 cnllm.com:443#cnllm.com
-cdn.091224.xyz:443#cdn.091224.xyz
+101yaoye.com:443#101yaoye.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

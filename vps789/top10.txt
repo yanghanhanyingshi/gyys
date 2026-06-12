@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-12 15:15 | 灵鹿优选
-baka.fun:443#baka.fun
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-cdn.2020111.xyz:443#cdn.2020111.xyz
-cf.553314.xyz:443#cf.553314.xyz
-www.cdzxdz.com:443#www.cdzxdz.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-12 19:37 | 灵鹿优选
 zeas.top:443#zeas.top
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+baka.fun:443#baka.fun
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
+www.cdzxdz.com:443#www.cdzxdz.com
+cf.553314.xyz:443#cf.553314.xyz
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
+cdn.2020111.xyz:443#cdn.2020111.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
