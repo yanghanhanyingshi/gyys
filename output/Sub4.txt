@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@fr.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇫🇷
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=3287e9988ca1e611#@V2VODKA_A🇳🇱
-vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#@V2VODKA_A🇳🇱
 vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@ru.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇷🇺
 vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇹🇷
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
@@ -503,3 +500,6 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@tunnle.izumii.ir:2009?security=none
 vless://5f1dbabe-be61-42fa-cbde-dc84ce43c638@116.202.96.72:11810?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@FarazV2ray
 vless://5f2c0b57-c422-4db8-8540-943c3f1376d6@che1.freedom-with-love.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=che1.freedom-with-love.com&sid=a1b0ca33a5195ce2&fp=chrome&pbk=v9kGt-1rsU_XcTzx0AHooJyNiy-Ez9ji9YX6ByHMDjw&headerType=none#@meliproxyy
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=sp…</div>#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?encryption=none&security=tls&sni=speedtest.net&insecure=1&allowInsecure=1&type=ws&host=apiv2.global.ssl.fastly.net&path=/#✅  @vistav2ray  👈👈کانال ما ✅
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?encryption=none&type=ws&security=tls&path=/&host=apiv2.global.ssl.fastly.net&sni=speedtest.net&insecure=1&allowInsecure=1#6https://t.me/ConfigX2ray
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?encryption=none&type=ws&security=tls&path=/&host=apiv2.global.ssl.fastly.net&sni=speedtest.net&insecure=1&allowInsecure=1#@hi_proxy_iran :👈کانال تلگرام

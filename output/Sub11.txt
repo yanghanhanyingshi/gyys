@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.130:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%3E%3E%40configshub2%3A%3AHU
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40configshub2%3A%3ANL
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40configshub2%3A%3ANL
