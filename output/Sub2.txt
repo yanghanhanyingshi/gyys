@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#@confiig_hub
-trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#@mehrosaboran
-trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#telegram @mtmvpn
 trojan://SoftNetConnect@194.5.192.89:2087?type=grpc&security=reality&authority=45.151.102.87&sni=www.yahoo.com&fp=chrome&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&sid=160b91b3&spx=/#kurdconfig
 trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=/&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d591#@bored_vpn
 trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=/&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d591#@confiig_hub
@@ -503,3 +500,6 @@ vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@confiig_hub
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@mehrosaboran
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@prrofile_purple  ♥️👈 تلگرام
+vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#V2dogs_n
+vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#telegram @mtmvpn
+vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.179:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=bazaryabab.global.ssl.fastly.net&path=/#✅  @vistav2ray  👈👈کانال ما ✅

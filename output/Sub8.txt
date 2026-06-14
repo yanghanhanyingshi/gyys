@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🐊39@oneclickvpnkeys
-vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🐊39@v2ray_configs_pools
-vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#@meliproxyy
 vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#Mix--@V2rayAlpha--10
 vless://cc3806e9-a9df-4902-ad96-c56b6a171656@103.31.4.108:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
 vless://cc3806e9-a9df-4902-ad96-c56b6a171656@103.31.4.118:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
@@ -503,3 +500,6 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&secu
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=octopusss4.com&path=/tsghdws&sni=octopusss4.com&fp=chrome&alpn=h2,h3,http/1.1#@NetZone_Ir 🧬
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#1https://t.me/ConfigX2ray
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@V2raySup0 | 🚀
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#@fastkanfig 23
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#All--@V2rayAlpha--8
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=octopusss4.com#@FarazV2ray

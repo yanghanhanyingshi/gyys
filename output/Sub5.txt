@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6c22648a-18f5-4249-9ace-72a1639d4190@nab.velizor.ir:6026?encryption=none&fp=chrome&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&security=reality&sid=765c6f&sni=store.steampowered.com&spx=/3u2wy3leoAEcQN8&type=tcp#🔵@chillguy_vpn
-vless://6c22648a-18f5-4249-9ace-72a1639d4190@nab.velizor.ir:6026?encryption=none&fp=chrome&pbk=NdK-N9-1R_mUcyYg3kBYdlYed3B8RoZunnkBGJxiLXk&security=reality&sid=765c6f&sni=store.steampowered.com&spx=/3u2wy3leoAEcQN8&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
-vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:2020?encryption=none&fp=chrome&pbk=nl7ETRtlUvG6wMtsyuCI2U0-CyTKs-eVB889lix5Mk8&security=reality&sid=1ff223a406db28&sni=yahoo.com&spx=/e4kqhXHXYHDY7cf&type=tcp#🇩🇪 t.me/Natrixo AA
 vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:2020?encryption=none&fp=chrome&pbk=nl7ETRtlUvG6wMtsyuCI2U0-CyTKs-eVB889lix5Mk8&security=reality&sid=1ff223a406db28&sni=yahoo.com&spx=/e4kqhXHXYHDY7cf&type=tcp#🇩🇪69657 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:2020?encryption=none&fp=chrome&pbk=nl7ETRtlUvG6wMtsyuCI2U0-CyTKs-eVB889lix5Mk8&security=reality&sid=1ff223a406db28&sni=yahoo.com&spx=/e4kqhXHXYHDY7cf&type=tcp#🔵@chillguy_vpn
 vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:5020?encryption=none&fp=chrome&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&security=reality&sid=8d&sni=news.microsoft.com&spx=/OyN3bEKyCzKXSF7&type=tcp#🇩🇪 t.me/Natrixo AA
@@ -503,3 +500,6 @@ vless://8ea0665e-dee3-418c-8822-1f70f350f2db@nid.pink-perfect.ru:443?security=re
 vless://8ea0665e-dee3-418c-8822-1f70f350f2db@sw.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=86b80f1e713a33ad#@V2VODKA_A🇸🇪
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@KAFING_2
 vless://8f6e9139-ed50-4323-afe8-b84f7ce47473@188.114.97.6:443?mode=packet-up&path=/apiii&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=op.sonicc.online#🚀@V2ray_official
+vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
+vless://906a8afb-0508-001e-8926-7a754dd62db5@ru01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&sni=ru-cloud.221131513.xyz&sid=31181028b56c8704#@iguanaVPN 2🇷🇺
