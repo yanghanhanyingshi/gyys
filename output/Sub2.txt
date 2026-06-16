@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://External_Net@162.159.90.96:443?type=xhttp&security=tls&path=/&host=pub.khodemhm.qzz.io&mode=auto&sni=pub.khodemhm.qzz.io&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🚀@VPNine1
+trojan://External_Net@199.181.197.176:443?type=xhttp&security=tls&path=/&host=pub.khodemhm.qzz.io&mode=auto&sni=pub.khodemhm.qzz.io&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇺🇸US-🚀@VPNine1
+trojan://External_Net@27.50.48.49:443?type=xhttp&security=tls&path=/&host=pub.khodemhm.qzz.io&mode=auto&sni=pub.khodemhm.qzz.io&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇸🇬SG-🚀@VPNine1
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#TEL;Father_vpn
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ch-2.bexum.fun#@Shh_proxy ²
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls#@v2rayconfigamir 8322
 trojan://Masir_Sefid@188.213.130.212:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇳 @FREE_VPn02
@@ -499,7 +503,3 @@ vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
 vless://098ad71d-c5f1-4e61-8df8-d3d21b6fc311@panel.hardvezoo.ir:2476?security=reality&encryption=none&pbk=vZIClKI7vhhV82hKZyiAdyoamDlOjz4zqwqmuR_1J3w&headerType=none&fp=chrome&type=tcp&sni=panel.hardvezoo.ir&sid=a713eda9121635c2#⚡@V2ray_official
 vless://09c03941-dc9e-4080-8f08-c5e1781adc67@172.67.220.1:8443?encryption=none&security=tls&sni=new2.arshia-nova.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=new2.arshia-nova.ir&path=/api/v2/stream#Channel : @Daily_Configs
-vless://09c03941-dc9e-4080-8f08-c5e1781adc67@173.245.58.84:8443?encryption=none&security=tls&sni=new2.arshia-nova.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=new2.arshia-nova.ir&path=/api/v2/stream#Channel : @Daily_Configs
-vless://09c03941-dc9e-4080-8f08-c5e1781adc67@sub.arshia-nova.ir:8443?encryption=none&security=tls&sni=new2.arshia-nova.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=new2.arshia-nova.ir&path=/api/v2/stream#Channel : @Daily_Configs
-vless://09c03941-dc9e-4080-8f08-c5e1781adc67@www.speedtest.net:443?encryption=none&security=tls&sni=ansooyefilter.ansooyefilter.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=ansooyefilter.ansooyefilter.ir&path=/api/v2/stream#Channel : @Daily_Configs
-vless://09c03941-dc9e-4080-8f08-c5e1781adc67@www.speedtest.net:8443?encryption=none&security=tls&sni=new2.arshia-nova.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=new2.arshia-nova.ir&path=/api/v2/stream#Channel : @Daily_Configs
