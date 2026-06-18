@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#@fastkanfig
-trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#❤️‍🔥 کانال تلگرام HiByeVPNN@
-trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇳@FreakConfig
-trojan://Masir_Sefid@83.228.225.220:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#@fastkanfig کانال تلگرامی
-trojan://Masir_Sefid@83.228.225.220:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#🇨🇳@FreakConfig
-trojan://Masir_Sefid@83.228.225.220:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇳@FreakConfig
-trojan://Masir_Sefid@83.228.225.220:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@fastkanfig کانال ما
-trojan://Masir_Sefid@83.228.225.220:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇳@FreakConfig
-trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@FREE_VPN02+|+بیا+تو+وصل+باش+💙
 trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 trojan://Masir_Sefid@Masir_Sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@fastkanfig
 trojan://MiTiVPN@104.16.72.70:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🚀@VPNine1
@@ -503,3 +494,12 @@ vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=1&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=1&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?path=/&security=none&encryption=none&type=ws#@FREE_VPN02
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#Telegram : @V2ynpv
+vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?path=//?ed=2560/JOIN/PuLaVPN/JOIN/PuLaVPN/JOIN/PuLaVPN/JOIN/PuLaVPN/JOIN/PuLaVPN&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#⚡@V2ray_official
+vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
+vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=/&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#⚡@V2ray_official
+vless://067bd7a0-2d21-2e81-3fe8-9636ebe223a8@188.114.97.6:443?path=/sync&security=tls&encryption=none&insecure=0&host=mikasavpn2.mikasavpn2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mikasavpn2.mikasavpn2.workers.dev#telegram @mtmvpn
+vless://0698d68c-2ee8-4962-ec3f-e1d67bcfb8aa@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#@V2dogs_n
+vless://0698d68c-2ee8-4962-ec3f-e1d67bcfb8aa@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#@erfanandroid
+vless://06a15a9b-9c24-4b0d-aaf2-6946b5143c69@n1.nolockhere.xyz:8444?mode=gun&security=reality&encryption=none&pbk=MYYmKsCC2_8v4ROpY7zT7sp4-XkWEvbzIxddjxuEwg8&fp=chrome&type=grpc&sni=yahoo.com&sid=5673a8ac57374138#🇩🇪[kia_net] vless-DE
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#MiX--@V2rayAlpha--5
