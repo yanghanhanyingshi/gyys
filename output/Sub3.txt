@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@all.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆♕︎همه نت ها   🇩🇪
-vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@free.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#@𝗡𝗲𝘅𝘂𝘀_𝘃2
 vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@free.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆♕︎'𝑨𝒍𝒍--𝒏𝒆𝒕🇩🇪
 vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@irc.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆♕︎ایرانسل🇩🇪
 vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@mci.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆♕︎همراه اول   🇩🇪
@@ -503,3 +501,5 @@ vless://389f9cea-9090-72e0-7b40-39ed3b11574f@66.33.23.75:443?encryption=none&sec
 vless://389f9cea-9090-72e0-7b40-39ed3b11574f@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/389f9cea-9090-72e0-7b40-39ed3b11574f#92
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇬🇧76672 | ⚡️Telegram = t.me/SOSkeyNET
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢52@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?alpn=http/1.1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#🧢6@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
