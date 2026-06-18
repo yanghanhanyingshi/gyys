@@ -3,10 +3,10 @@
     "https://zip.cm.edu.kg/all.txt",
     "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all.txt",
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt"
+    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+    "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt"
   ],
   "timeout": 10,
   "max_workers": 30,
-  "output_format": "txt",
   "output_file": "valid_ips.txt"
 }
