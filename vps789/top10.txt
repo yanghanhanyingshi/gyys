@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-18 13:29 | 灵鹿优选
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-dongbanghong.com:443#dongbanghong.com
-cdns.doon.eu.org:443#cdns.doon.eu.org
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-18 18:08 | 灵鹿优选
 saas.sin.fan:443#saas.sin.fan
 store.ubi.com:443#store.ubi.com
-gh-proxy.com:443#gh-proxy.com
+cdns.doon.eu.org:443#cdns.doon.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+play.mc.js.cool:443#play.mc.js.cool
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
