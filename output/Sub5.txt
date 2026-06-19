@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.240.44:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#🧢1@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆³
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.198:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁹
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.202:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁴
@@ -501,5 +503,3 @@ vless://62b8df2a-4cd4-4623-b65b-e989e75775dd@45.198.87.28:8443?encryption=none&f
 vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@am.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷FR-🚀@VPNine1
 vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@du.mobileemdad.top:42542?security=&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@dubai.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@fi.mobileemdad.top:42538?security=&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@i.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪AE-🚀@VPNine1
