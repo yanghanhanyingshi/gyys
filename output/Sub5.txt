@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.12:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢63@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.18:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇳🇱Chanel Telegram || @svscoonfig
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.42:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢7@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.47:8443?encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢14@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.48:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧢19@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.240.44:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#🧢1@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆³
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.198:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁹
@@ -498,8 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&all
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime19.workers.dev&path=/&security=none&type=ws#@Ap_Ir6
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime19.workers.dev&path=/&security=none&type=ws#🇨🇦 @rayhub_ir 0618-13
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime19.workers.dev&path=/&security=none&type=ws#🧢22@oneclickvpnkeys
-vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://62b8df2a-4cd4-4623-b65b-e989e75775dd@45.198.87.28:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#🧢75@oneclickvpnkeys
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@am.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@du.mobileemdad.top:42542?security=&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@dubai.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1

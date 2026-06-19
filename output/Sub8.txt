@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#🇷🇺 @ProxyVPN11
+vless://9e685fe3-e0f9-482d-939c-200a3f89b363@cf.narton.ir:8443?path=/?ed=2560fp=chrome&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vyznthvt7f5fr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vyznthvt7f5fr.zjde5.de5.net#@KAFING_2
+vless://9e6ba1d8-2fd6-459c-8b15-a2a4cccb6313@eservices.tamin.ir:443?path=/video&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn.tizpabar.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tizpabar.ir#🇮🇷IR-🚀@VPNine1
+vless://9ea7dd86-f3c3-48c7-87ff-aff9df618d74@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#@Leecher56
+vless://9ea7dd86-f3c3-48c7-87ff-aff9df618d74@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#@bored_vpn
 vless://9ea7dd86-f3c3-48c7-87ff-aff9df618d74@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#@confiig_hub
 vless://9ea7dd86-f3c3-48c7-87ff-aff9df618d74@varzesh3.com:80?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#telegram @mtmvpn
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.16.72.70:443?mode=stream-one&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=chrome&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#@fastkanfig عضو نشی قطع میشه
@@ -498,8 +503,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?path=/?ed&securit
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@iguanaVPN 6
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@hopev2ray💚
-vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
-vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2raynplus |🇬🇧
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?security=reality&encryption=none&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=free1.anotherboring.top&sid=53cd45d26d7b53fe#🇩🇪103Mb |
-vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?security=reality&encryption=none&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=2895e9532d0c#@ReleaseNet
-vless://c9c7a2b1-caf7-4adb-a184-1f55573ecba0@snapp.ir:80?path=/&security=none&encryption=none&host=cactos.cactuscloud.ir&type=ws#@v2rayngzendegimamad🕊️
