@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
-vless://47667ac5-ac51-7fc6-181f-65321ee2387b@svg-2.onrender.com:443?path=/ws/47667ac5-ac51-7fc6-181f-65321ee2387b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=svg-2.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=svg-2.onrender.com#@prrofile_purple  ♥️👈 تلگرام
-vless://47d617e3-49e2-45c8-afd7-96267960a726@95.38.164.158:2026?path=/Tel:@Gap_Ip&security=&encryption=none&type=httpupgrade#Hayacan Yok 🎯-cox8ewjy-9.99GB📊
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
@@ -503,3 +498,8 @@ vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&all
 vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
 vless://6fc36cfc-561f-4544-9a0e-7c732c478501@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
 vless://6fd45557-b7b3-42d7-aa67-2d06ddd8e180@kia.ipsafe2.site:24329?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=kia.ipsafe2.site#🇩🇪DE-🚀@VPNine1
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#hope of freedom - @anotherme_night
+vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=moback2.notrogame.com&fp=chrome&type=xhttp&allowInsecure=0&sni=moback2.notrogame.com#⚡Tel: @Proxy_Vpney (1)
+vless://70a5a013-7953-4ff3-81b6-b778f16f8dc8@bastani.purplrose.ir:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws#🇨🇦 @internet_azad_2026
+vless://70a5a013-7953-4ff3-81b6-b778f16f8dc8@bastani.purplrose.ir:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=bastani.purplrose.ir&fp=chrome&type=ws&sni=bastani.purplrose.ir#🇨🇦 @internet_azad_2026
+vless://70d35773-7940-47a7-8375-177732e7c4df@stream.overdoes.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=q1.overdoes.site#OverdosVPN🇩🇪-Free ❌
