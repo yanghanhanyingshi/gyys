@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://@V2ConfigPro@199.181.197.240:443?path=/&security=tls&encryption=none&insecure=0&host=jimmymacgill.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=jimmymacgill.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@216.24.57.195:443?path=/&security=tls&encryption=none&insecure=0&host=sanjiopmin.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=sanjiopmin.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=kazavakialitakimeki.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=kazavakialitakimeki.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=youknowali.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=youknowali.dpdns.org#@V2ConfigPro
 vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
@@ -503,3 +501,5 @@ vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&e
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#@appsooner کانال تلگرام 🕊️
 vless://c632bd8b-bfb1-4b3b-a44f-1308112f09e8@116.203.6.53:8842?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2a7f6b8788caca70#🇩🇪DE-🚀@VPNine1
 vless://c632bd8b-bfb1-4b3b-a44f-1308112f09e8@116.203.6.53:8844?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://c632bd8b-bfb1-4b3b-a44f-1308112f09e8@188.114.97.6:2053?path=/landing?ed=256&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=clientc.themonji.com&type=ws&allowInsecure=0&sni=clientc.themonji.com#🚀@VPNine1
+vless://c633d5ab-a6e5-413d-8525-748907f90850@45.80.111.1:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=mmd2.sorixset.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mmd2.sorixset.ir#@IRAN_V2RAY1 VIP

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c632bd8b-bfb1-4b3b-a44f-1308112f09e8@188.114.97.6:2053?path=/landing?ed=256&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=clientc.themonji.com&type=ws&allowInsecure=0&sni=clientc.themonji.com#🚀@VPNine1
-vless://c633d5ab-a6e5-413d-8525-748907f90850@45.80.111.1:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=mmd2.sorixset.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mmd2.sorixset.ir#@IRAN_V2RAY1 VIP
 vless://c633d5ab-a6e5-413d-8525-748907f90850@45.80.111.1:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=mmd2.sorixset.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mmd2.sorixset.ir#@ReleaseNet
 vless://c633d5ab-a6e5-413d-8525-748907f90850@45.80.111.1:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000%#@ReleaseNet
 vless://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=/&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🌊52@NetFlowTools
@@ -503,3 +501,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?allowInsecure=1&e
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#✈️31@oneclickvpnkeys
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🏟️20@NetFlowTools
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#@vmesskhodam
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#7🐝Tel--@V2rayAlpha
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#@meliproxyy
