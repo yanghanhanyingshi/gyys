@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 06-21 06:59 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP20 | 06-21 08:08 | 灵鹿优选
 www.shopify.com:443#www.shopify.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 www.mc.js.cool:443#www.mc.js.cool
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-www.cdzxdz.com:443#www.cdzxdz.com
 www.akasantech.com:443#www.akasantech.com
+gh-proxy.com:443#gh-proxy.com
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -18,5 +18,5 @@ cdn.091224.xyz:443#cdn.091224.xyz
 zeas.top:443#zeas.top
 www.vastnovel.com:443#www.vastnovel.com
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-cu.877774.xyz:443#cu.877774.xyz
+edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
