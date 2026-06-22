@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.18.154.96:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=usa.homairasisi.ir&fp=chrome&type=xhttp&sni=usa.homairasisi.ir#⚡@V2ray_official
 vless://88e5e9f3-4929-4383-9ab8-20e3144ae5fe@194.146.68.70:8088?security=reality&encryption=none&pbk=cIWl2OMPg0y8eSBBAi6V3iltlvTueW0wnQvi4A_XIlk&headerType=none&fp=chrome&spx=/GgIhhSpbYW1GzH0&type=tcp&sni=dl2.soft98.ir&sid=4411e5b0b9ee#⚡@V2ray_official
 vless://88e5e9f3-4929-4383-9ab8-20e3144ae5fe@194.146.68.70:8088?security=reality&encryption=none&pbk=cIWl2OMPg0y8eSBBAi6V3iltlvTueW0wnQvi4A_XIlk&headerType=none&fp=chrome&spx=/GgIhhSpbYW1GzH0&type=tcp&sni=dl2.soft98.ir&sid=4411e5b0b9ee#🕊 @Fear_Config
 vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.150:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@ReleaseNet
@@ -502,4 +503,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.73:8443?security=tls&enc
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com#⚡@V2ray_official
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@v2rayNplus |The+Netherlands
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#2 @fastkanfig
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@V2dogs_n

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=16#@FarazV2ray
 vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=1680#@FarazV2ray
 vless://618b57fd-6078-4dec-a658-4c031205f8d6@45.194.66.181:62800?mode=gun&security=reality&encryption=none&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&fp=chrome&type=grpc&serviceName=grpc&sni=yandex.ru&sid=63a9b4c563de9906#@ReleaseNet
 vless://6199c592-579c-40c4-9817-79cbc9cc676c@b9.benrjb.ir:443?security=reality&encryption=none&pbk=Nkjg0e4y1aVZjDtB64AMBCNOhBwKXDRGl52Yt8c7SxA&headerType=none&fp=chrome&spx=/iD8JUte5w3xvicj&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=83d4dd3b8d035a#@outline_ir
@@ -502,4 +503,3 @@ vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@65.109.177.195:5742?authority=&encr
 vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.16.174.118:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=usa.homairasisi.ir&fp=chrome&type=xhttp&sni=usa.homairasisi.ir#⚡@V2ray_official
 vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.16.71.189:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=usa.homairasisi.ir&fp=chrome&type=xhttp&sni=usa.homairasisi.ir#⚡@V2ray_official
 vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.18.153.88:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=usa.homairasisi.ir&fp=chrome&type=xhttp&sni=usa.homairasisi.ir#⚡@V2ray_official
-vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.18.154.96:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=usa.homairasisi.ir&fp=chrome&type=xhttp&sni=usa.homairasisi.ir#⚡@V2ray_official
