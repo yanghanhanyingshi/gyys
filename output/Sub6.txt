@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://583bfe89-2492-49dc-91f8-4b45e869a1cd@damp-sound-f99c.golamirreza19954312.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://5854d471-23a6-4c97-a398-95f483f885b0@104.16.7.70:8080?mode=auto&path=/xhttp&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=aziz.carderrr.com.&type=xhttp#Proxy_Se7en
 vless://5854d471-23a6-4c97-a398-95f483f885b0@188.114.97.6:8080?mode=auto&path=/xhttp&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=aziz.carderrr.com.&type=xhttp#Proxy_Se7en
 vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&encryption=none&path=/@FreeOnlineVPN?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -503,3 +502,4 @@ vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryp
 vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/BJMz0Rpb9gejBzKP?ed=2560#CxrolVPN - Free (2)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
+vless://821100fa-b819-4614-83ee-996c4cb142cb@186.246.19.214:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_fG0m51dASh_sWJMJYtX4tqhaG-h-J8H-r-q2iyOwBg&security=reality&sid=3597&sni=deepl.com&type=tcp#💟44@oneclickvpnkeys
