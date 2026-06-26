@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#@freenettir
 vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#@meliproxyy
 vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#filembad-295
 vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#kurdconfig
@@ -502,4 +503,3 @@ vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@@FREE_VPN02
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@FarazV2ray
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@ReleaseNet
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@irconfiig
