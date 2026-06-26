@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=/#🦉@FreeConfigForYou
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#@meliproxyy
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#✅  @vistav2ray  👈👈کانال ما ✅
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
@@ -503,3 +502,4 @@ vless://39bd10b8-9234-4171-be41-71ce4dda4573@erosan.appleseraj.ir:443?path=?ed=2
 vless://39bd10b8-9234-4171-be41-71ce4dda4573@gb.amki.ir:8080?security=reality&encryption=none&pbk=eudxzKNPVdV2AZyo-84rUXPnNx5TURdjHAHB95ZEhRo&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f7dc991121691df6#kurdconfig
 vless://39bd10b8-9234-4171-be41-71ce4dda4573@om.yellowsky.ir:2000?path=/?ed=2560&security=&encryption=none&host=play.google.com&type=ws#kurdconfig
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@46.225.250.187:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در
+vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@46.225.250.187:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#@Soul737
