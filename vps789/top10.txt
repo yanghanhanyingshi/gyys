@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-27 17:24 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-27 19:21 | 灵鹿优选
 cf.nyanya.moe:443#cf.nyanya.moe
 cdns.doon.eu.org:443#cdns.doon.eu.org
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
-cf.godns.cc:443#cf.godns.cc
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-baka.fun:443#baka.fun
 aistudio.zabc.net:443#aistudio.zabc.net
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
+baka.fun:443#baka.fun
+eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+test.509666.xyz:443#test.509666.xyz
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
