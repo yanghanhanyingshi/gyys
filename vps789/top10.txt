@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-29 01:59 | 灵鹿优选
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-29 03:22 | 灵鹿优选
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -7,6 +6,7 @@ cf.godns.cc:443#cf.godns.cc
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 www.mc.js.cool:443#www.mc.js.cool
 kuaidianlian.com.cn:443#kuaidianlian.com.cn
-cnllm.com:443#cnllm.com
-www.ntu.edu.sg:443#www.ntu.edu.sg
+cf.553314.xyz:443#cf.553314.xyz
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
