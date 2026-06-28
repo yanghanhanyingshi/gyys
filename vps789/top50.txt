@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 06-29 05:55 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP50 | 06-29 06:56 | 灵鹿优选
+gh-proxy.com:443#gh-proxy.com
 www.akasantech.com:443#www.akasantech.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
@@ -8,31 +9,30 @@ kuaidianlian.com.cn:443#kuaidianlian.com.cn
 ct.hw.090227.xyz:443#ct.hw.090227.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
 cf.itv888.cn:443#cf.itv888.cn
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cfgo.timelate.com:443#cfgo.timelate.com
 visa.com:443#visa.com
-cf.v8.longsays.com:443#cf.v8.longsays.com
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
+zeas.top:443#zeas.top
 www.shopify.com:443#www.shopify.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-gh-proxy.com:443#gh-proxy.com
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 markmonitor.com:443#markmonitor.com
 fk.hshwk.org:443#fk.hshwk.org
 nexusmods.com:443#nexusmods.com
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cmcc.877774.xyz:443#cmcc.877774.xyz
 cf.mubaiovo.top:443#cf.mubaiovo.top
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-cnllm.com:443#cnllm.com
 cmcc.cc.cd:443#cmcc.cc.cd
 athome.com:443#athome.com
 edgeone.gh-proxy.org:443#edgeone.gh-proxy.org
@@ -41,12 +41,12 @@ dnew.cc:443#dnew.cc
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 ping.pe:443#ping.pe
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
+yd.zhuqq.qzz.io:443#yd.zhuqq.qzz.io
 cf.nyanya.moe:443#cf.nyanya.moe
 www.jimdo.com:443#www.jimdo.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+saas.sin.fan:443#saas.sin.fan
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测

@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 06-29 05:55 | 灵鹿优选
+saas.sin.fan:443#▼ 优选域名 TOP10 | 06-29 06:56 | 灵鹿优选
+gh-proxy.com:443#gh-proxy.com
 www.akasantech.com:443#www.akasantech.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
@@ -8,5 +9,4 @@ kuaidianlian.com.cn:443#kuaidianlian.com.cn
 ct.hw.090227.xyz:443#ct.hw.090227.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
 bestcf.030101.xyz:443#▲ 优选域名 | 灵鹿优选 | VPS789 7*24监测
