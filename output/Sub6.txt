@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5bbb20d4-51ff-471f-845e-c7f5fb55cd55@riga-1.easyodin.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
+vless://5bbb20d4-51ff-471f-845e-c7f5fb55cd55@riga-1.easyodin.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#irconfiig
+vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&insecure=1&allowInsecure=1&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&flow=xtxts-rprx-vision#@vpng3 [17]
 vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#telegram @mtmvpn
 vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@31.77.201.245:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&insecure=1&allowInsecure=1&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&flow=xtxts-rprx-vision#@vpng3 [15]
 vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@5.101.87.3:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&insecure=1&allowInsecure=1&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&flow=xtxts-rprx-vision#@vpng3 [24]
@@ -500,6 +503,3 @@ vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:80?security=none&encr
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/8L8ji1ltYihf2SMX?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (9)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/LnR5ZD5AxThxzVDc?ed=2560#Join Tel: @CxrolVPN (12)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/LnR5ZD5AxThxzVDc?ed=2560#اگه میخوای قطع نشی جوین شو : @farsiproxy
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/gsixokC2LESAfuS8?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (7)
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/JEtBk8DPXKH88SZ5?ed=2560#Join Tel: @CxrolVPN (10)
-vless://8636964b-5603-4e35-b474-893591d8fdd9@108.162.194.165:80?path=/poiabnwdpoa&security=none&encryption=none&host=dl7.peacecloud.ir&type=httpupgrade#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️412🌐🆕️
