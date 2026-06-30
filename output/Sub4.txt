@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🌝
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#@prrofile_purple  ♥️👈 تلگرام
@@ -502,4 +503,3 @@ vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&
 vless://2c745da3-f69f-4268-810e-389e935412e9@167.104.55.25:35401?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁸⁸
 vless://2c8354fa-1fef-4af0-bea3-d8c982b872fe@zlzdfosmw.dadashinet10.ir:2044?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇳🇱 @rayhub_ir 0629-3
 vless://2c9af5d8-8e1c-40e7-8b6b-c200fc5488e8@199.232.78.159:80?type=xhttp&encryption=none&path=/xhttp&host=kabotar.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra={"xPaddingBytes":"0"}&security=none#@ehsawn8
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=/tg@zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram

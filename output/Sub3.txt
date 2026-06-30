@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#https://t.me/AarazV2ray
 trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.toughapp.click#@hopev2ray🧡
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.107.157:17005?sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram
 trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:5701?allowInsecure=1&sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encry
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER

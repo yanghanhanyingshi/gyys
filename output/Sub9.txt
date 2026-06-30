@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@www.ravinoz.ir:443?path=/live-stream&security=tls&encryption=none&insecure=0&host=live.ravinoz.ir&fp=chrome&type=ws&allowInsecure=0&sni=docs.ravinoz.ir#@Soul737
 vless://a47f13eb-eac7-4bc8-843a-da8688cc1621@www.ravinoz.ir:443?path=/live-stream&security=tls&encryption=none&insecure=0&host=live.ravinoz.ir&fp=chrome&type=ws&allowInsecure=0&sni=docs.ravinoz.ir#@erfanandroid
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#[83903] - Telegram : @V2All
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#🇮🇷IR-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?encryption=none&
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws#Channel : @Daily_Configs
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.octopusss5.info#🦌@ProxyVPN11 - 5
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#@FarazV2ray
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#@V2raySup0🚀
