@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://512ba3a5-257b-4a74-b1b4-c86d852f77cc@usa.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usa.viralforge.ru&sid=a1b2c3d4b5#@V2VODKA_A🇺🇸
+vless://51ccc2ef-0450-4421-a55d-0c03e5376985@46.101.78.84:19406?security=none&encryption=none&headerType=none&type=tcp#@flyv2ray
+vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?path=/&security=&encryption=none&host=fi1.kianorbit.ir&type=httpupgrade#@electvpn0
+vless://528defd1-2a24-43bd-b45d-874367c6f4f5@anten.ir:8880?path=/&security=none&encryption=none&host=iran.shopdn.ir&type=ws#@WETCONFIG
 vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=/&security=none&encryption=none&host=play.google.com&type=ws#@one_shop_official
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.bvps.cloud&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇬🇧GB_1303_@Surfboardv2ray
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تل
@@ -499,7 +503,3 @@ vless://7b241232-208d-4d36-857e-913f91b044f4@193.111.248.101:443?security=tls&en
 vless://7b53860a-3856-4cb7-b2a0-8b5d6f586abf@khar290.snappshp.com:443?security=tls&allowInsecure=0&encryption=none&type=httpupgrade&sni=khar290.snappshp.com&fp=chrome&alpn=h2,http/1.1#2993 | @Wetaconfig
 vless://7b71f980-4e40-40a3-8994-41836ad4c3f4@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#🇩🇪@V2RAYNGRAISI | All1
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
-vless://7b99ef49-6577-4e55-9af4-de97cfcdcb95@89.116.46.68:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=a.tiptop-3.top&fp=chrome&type=ws&allowInsecure=0&sni=a.tiptop-3.top#Join → @sil3nt_network
-vless://7b99ef49-6577-4e55-9af4-de97cfcdcb95@ir1.pasargadgames.ir:22924?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Join → @sil3nt_network
-vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=04bf0403f96e5b4b#TEL;Father_vpn
-vless://7bb7c0fb-a89f-4e64-a303-78c1f5f61781@axs.amirxshot.ir:2095?path=/axs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐
